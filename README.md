@@ -5,6 +5,8 @@ This model Based on the work https://github.com/oliverguhr/fullstop-deep-punctua
 
 The model restores the following punctuation markers: **"." "," "?" "-" ":"**
 
+**Hugging Face** : https://huggingface.co/Rizkinoor16/fullstop-indonesian-punctuation-prediction
+
 ## Install 
 
 To get started install the package from [pypi](https://pypi.org/project/deepmultilingualpunctuation/):
