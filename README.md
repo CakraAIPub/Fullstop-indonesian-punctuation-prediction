@@ -7,6 +7,17 @@ The model restores the following punctuation markers: **"." "," "?" "-" ":"**
 
 **Hugging Face** : https://huggingface.co/Rizkinoor16/fullstop-indonesian-punctuation-prediction
 
+## Running [Gradio](https://github.com/gradio-app/gradio) demo locally
+
+A demo is hosted [here](https://huggingface.co/Rizkinoor16/fullstop-indonesian-punctuation-prediction) on Hugging Face , but you can also try it locally.
+
+```bash
+git clone https://github.com/CakraAIPub/Fullstop-indonesian-punctuation-prediction.git
+cd demo
+pip install -r requirements.txt
+python app.py
+```
+
 ## Install 
 
 To get started install the package from [pypi](https://pypi.org/project/deepmultilingualpunctuation/):
